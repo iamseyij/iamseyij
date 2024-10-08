@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @iamseyij
-- 👀 I’m interested in product design and project management
-- 🌱 I’m currently learning product design and project management
-- 💞️ I’m looking to collaborate on developing digital product
+- 👋 Hi, I’m Oluwaseyi
+- 👀 I’m interested in technical & growth Product Management and project management
+- 💞️ I’m looking to collaborate on developing a digital product
 - 📫 How to reach me on itseyij@gmail.com
 
 <!---
