@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwaseyi
-- 👀 I’m interested in technical & growth Product Management and project management
+- 👀 I’m interested in Revops & growth, Product Management and project management
 - 💞️ I’m looking to collaborate on developing a digital product
-- 📫 How to reach me on itseyij@gmail.com
+- 📫 How to reach me at itseyij@gmail.com
 
 <!---
 iamseyij/iamseyij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
